@@ -17,6 +17,6 @@ Here, you will find a collection of my projects related to these interests, show
 ## Contact
 
 
-[LinkedIn](https://www.linkedin.com) | [Email](riccardo.forte@mail.polimi.it)
+[LinkedIn](www.linkedin.com/in/riccardo-forte-945444266) | [Email](riccardo.forte@mail.polimi.it)
 
 Thank you for visiting my GitHub!
